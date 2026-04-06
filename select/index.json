@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Stand By My Woman",
+  "base_artist": "Lenny Kravitz",
+  "createdAt": "2026-04-06T02:04:27.337465Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Stand by my Woman",
+      "artist": "Lenny Kravitz",
+      "has_synced": true,
+      "path": "select/01_Stand_by_my_Woman_Lenny_Kravitz.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Stand By My Woman",
+      "artist": "Lenny Kravitz",
+      "has_synced": true,
+      "path": "select/02_Stand_By_My_Woman_Lenny_Kravitz.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Stand by My Woman",
+      "artist": "Lenny Kravitz",
+      "has_synced": false,
+      "path": "select/03_Stand_by_My_Woman_Lenny_Kravitz.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Stand By My Woman",
+      "artist": "Lenny Kravitz",
+      "has_synced": true,
+      "path": "select/04_Stand_By_My_Woman_Lenny_Kravitz.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Stand by My Woman",
+      "artist": "Lenny Kravitz",
+      "has_synced": true,
+      "path": "select/05_Stand_by_My_Woman_Lenny_Kravitz.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "STAND BY MY WOMAN",
+      "artist": "LENNY KRAVITZ",
+      "has_synced": true,
+      "path": "select/06_STAND_BY_MY_WOMAN_LENNY_KRAVITZ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "STAND BY MY WOMAN",
+      "artist": "KRAVITZ, LENNY",
+      "has_synced": true,
+      "path": "select/07_STAND_BY_MY_WOMAN_KRAVITZ,_LENNY.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Stand by My Woman",
+      "artist": "Lenny Kravitz",
+      "has_synced": true,
+      "path": "select/08_Stand_by_My_Woman_Lenny_Kravitz.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Stand By My Woman",
+      "artist": "Kravitz Lenny",
+      "has_synced": true,
+      "path": "select/09_Stand_By_My_Woman_Kravitz_Lenny.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Stand By My Woman",
+      "artist": "Lenny Kravitz",
+      "has_synced": true,
+      "path": "select/10_Stand_By_My_Woman_Lenny_Kravitz.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Stand by Woman",
+      "artist": "Lenny Kravitz",
+      "has_synced": true,
+      "path": "select/11_Stand_by_Woman_Lenny_Kravitz.lrc"
+    }
+  ]
+}
