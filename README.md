@@ -1,0 +1,43 @@
+# Lenny Kravitz – Stand By My Woman
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:16.56] There were times I wasn't kind
+[00:24.68] And there were times I wasn't even around
+[00:32.44] And there were times I made you cry
+[00:40.18] So many times I had to say goodbye
+[00:48.52] When you want to talk, I'm on the phone
+[00:54.45] But now, baby, I am here for you alone
+[01:13.45] 
+[01:02.06] I'm gonna stand by my woman now
+[01:09.92] I'm gonna stand by my woman now
+[01:17.85] 'Cause I can't live my life alone
+[01:25.15] Without a home
+[01:32.15] 
+[01:35.33] There were times I didn't understand
+[01:43.18] And there were times I wouldn't hold your hand
+[01:51.34] But, baby, now I'm here for you
+[01:57.29] 'Cause, baby, I am so in love with you
+[02:16.29] 
+[02:05.22] I'm gonna stand by my woman now
+[02:13.04] I'm gonna stand by my woman now
+[02:21.08] 'Cause I can't live my life alone
+[02:28.45] Without a home
+[02:35.45] 
+[02:48.13] I'm gonna stand by my woman now
+[02:55.93] I'm gonna stand by my woman now
+[03:03.28] 'Cause I can't live my life alone
+[03:10.75] Without a home, yeah
+[03:20.75] 
+[03:15.46] I'm gonna stand by my woman now
+[03:23.47] I'm gonna stand by my woman now
+[03:30.82] 'Cause I can't live my life alone
+[03:38.21] Without a home
+[03:45.21] 
+[03:39.81] Stand by my woman now
+[03:47.04] I'm gonna stand by my woman now
+[03:55.46] 'Cause I can't live my life alone
+[04:02.32] Without a home
+[04:06.52] Without a home
+```
